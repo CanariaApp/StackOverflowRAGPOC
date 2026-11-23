@@ -10,7 +10,7 @@ attrs==24.2.0
 black==24.8.0
 boltons==23.0.0
 Brotli==1.0.9
-certifi==2024.7.4
+certifi==2026.10.18
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
