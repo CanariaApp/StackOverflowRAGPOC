@@ -142,7 +142,7 @@ pyzmq==26.2.0
 ray==2.36.0
 referencing==0.35.1
 regex==2024.9.11
-requests==2.32.3
+requests==2.33.0
 rich==13.8.1
 rpds-py==0.20.0
 ruamel.yaml==0.17.21
