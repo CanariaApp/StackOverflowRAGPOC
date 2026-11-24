@@ -185,7 +185,7 @@ vllm-flash-attn==2.6.1
 watchfiles==0.24.0
 wcwidth==0.2.13
 websockets==12.0
-wheel==0.43.0
+wheel==0.46.2
 xformers==0.0.27.post2
 xmltodict==0.13.0
 xxhash==3.5.0
